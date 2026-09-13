@@ -2,6 +2,8 @@
 
 A beginner-friendly "Hello World" app built with [Vite](https://vite.dev), [React](https://react.dev), and [TypeScript](https://www.typescriptlang.org/). This README walks through exactly how the app was created and explains the TypeScript concepts used in the code.
 
+<img width="1055" height="1491" alt="ChatGPT Image 13 sept 2026, 14_40_55" src="https://github.com/user-attachments/assets/8e642adb-e5be-46bc-a373-563844b7dc0d" />
+
 ## How this app was created
 
 ### 1. Scaffold the project
